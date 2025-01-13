@@ -4,7 +4,7 @@ Program 1: This program calculates the number of singles and total number of bas
 
 Program 2: This program adds on to program 1 by calculating the slugging percentage of the baseball player.
 
-Program 3:
+Program 3: This program gives the user their monthly phone bill depending on what package they chose previously ( A, B, C ).
 
 Program 4: The Purpose of this program is to create a craps game using the random number generator and with symbolic constants.
 
