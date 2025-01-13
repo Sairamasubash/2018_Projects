@@ -16,4 +16,4 @@ Program 7: The purpose of this program is to process a file containing the stanl
 
 Program 8: The purpose of this program is to recreate the craps program. But in this program we are using (object oriented programing) classes, menthods, and constructors. For this program, we are also adding a loop for the user to play the game as many times as they want.
 
-Program 9:
+Program 9: The purpose of this program is to creat a class called "LoShuMagicSquare" that contains a couple of different methods or functions. These methods will tell the user if the numbers in the puzzle text file contain a magic square (there are a total of 4 puzzle text file for this program).
